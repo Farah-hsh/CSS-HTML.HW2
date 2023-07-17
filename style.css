@@ -1,0 +1,124 @@
+/* creating border */
+section{
+
+    /* changing position of the border to be centered */
+    margin: 0 auto;
+    padding: 10px;
+    width: 120px;
+
+    /* inside border */
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+
+    /* border style and details */
+    border-style: ridge;
+    background-color: rgb(249, 250, 251);
+    width: 500px;
+    height: 500px;
+    border-color: rgb(62, 59, 59);
+    border-radius: 3px;
+
+}
+
+/* creating border */
+#text{
+
+     /* changing position of the border to be centered */
+    margin: 0 auto;
+    padding: 10px;
+    width: 120px;
+
+     /* inside border */
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+
+     /* border style and details */
+    border-style: ridge;
+    background-color: rgb(62, 59, 59);
+    width: 100px;
+    height: 100px;
+    border-color: black;
+    border-radius: 10px;
+
+}
+/* div element color and position */
+div{
+    text-align: center;
+    color: beige;
+
+}
+
+
+/* creating border */
+#text2{
+
+     /* changing position of the border to be centered */
+    margin: 0 auto;
+    padding: 10px;
+    width: 120px;
+
+     /* inside border */
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+
+     /* border style and details */
+    border-style: dashed;
+    background-color: rgb(165, 160, 160);
+    width: 130px;
+    height: 50px;
+    border-color: black; 
+    border-radius: 6px;
+}
+
+
+/* creating border */
+#text3{
+
+     /* changing position of the border to be centered */
+    margin: 0 auto;
+    padding: 10px;
+    width: 120px;
+
+     /* inside border */
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+
+     /* border style and details */
+    border-style: dotted;
+    background-color: rgb(165, 160, 160);
+    width: 130px;
+    height: 50px;
+    border-color: black; 
+    border-radius: 6px;
+}
+
+
+/* creating border */
+#text4{
+
+     /* changing position of the border to be centered */
+    margin: 0 auto;
+    padding: 10px;
+    width: 120px;
+
+     /* inside border */
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+
+     /* border style and details */
+    border-style: groove;
+    background-color: rgb(165, 160, 160);
+    width: 300px;
+    height: 100px;
+    border-color: black; 
+    border-radius: 6px;
+}
+
+
+
+        
